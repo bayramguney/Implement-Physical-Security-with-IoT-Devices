@@ -231,6 +231,9 @@ IoT-Home-Security-Lab/
 
 # 📷 Screenshots
 
+<img width="633" height="359" alt="image" src="https://github.com/user-attachments/assets/19f01543-2c48-4201-b453-38838f1ac286" />
+
+
 Add screenshots of the following:
 
 * Network Topology
